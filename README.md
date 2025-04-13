@@ -3,11 +3,7 @@
 =======
 # EDA - FIB  
 [![Visites](https://hits.dwyl.com/amara213/Estructuras-Datos-Algoritmos-EDA-FIB.svg?style=flat-square)](http://hits.dwyl.com/amara213/Estructuras-Datos-Algoritmos-EDA-FIB)  
-[![Contribucions benvingudes](https://img.shields.io/badge/contribucions-benvingudes-brightgreen.svg?style=flat)](/CONTRIBUTING.md)  
-[![Estrelles a GitHub](https://img.shields.io/github/stars/amara213/Estructuras-Datos-Algoritmos-EDA-FIB.svg)](https://github.com/amara213/Estructuras-Datos-Algoritmos-EDA-FIB/stargazers)  
-[![Forks](https://img.shields.io/github/forks/amara213/Estructuras-Datos-Algoritmos-EDA-FIB.svg)](https://github.com/amara213/Estructuras-Datos-Algoritmos-EDA-FIB/network)  
-[![Mida del repositori](https://img.shields.io/github/repo-size/amara213/Estructuras-Datos-Algoritmos-EDA-FIB.svg)](https://github.com/amara213/Estructuras-Datos-Algoritmos-EDA-FIB)  
-[![Col·laboradors](https://img.shields.io/github/contributors/amara213/Estructuras-Datos-Algoritmos-EDA-FIB.svg)](https://github.com/amara213/Estructuras-Datos-Algoritmos-EDA-FIB/graphs/contributors)
+
 
 ---
 
