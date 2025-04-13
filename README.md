@@ -1,4 +1,3 @@
-=======
 # EDA - FIB  
 [![Visites](https://hits.dwyl.com/amara213/Estructuras-Datos-Algoritmos-EDA-FIB.svg?style=flat-square)](http://hits.dwyl.com/amara213/Estructuras-Datos-Algoritmos-EDA-FIB)  
 
