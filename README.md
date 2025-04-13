@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # EDA-FIB
 =======
 # EDA - FIB  
